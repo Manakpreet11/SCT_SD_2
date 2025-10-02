@@ -32,7 +32,7 @@ The program provides feedback (`Too low`, `Too high`) until the correct number i
 1. **Clone the repository** (if uploaded on GitHub):
 
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/Manakpreet11/number-guessing-game.git
    cd number-guessing-game
    ```
 
@@ -97,7 +97,7 @@ NumberGuessingGame/
 ## 👨‍💻 Author
 
 * **Your Name**
-* GitHub: [@your-username](https://github.com/your-username)
+* GitHub: (https://github.com/Manakpreet11)
 * Project created during learning Java basics 🚀
 
 ---
